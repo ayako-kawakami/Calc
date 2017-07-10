@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:hint="数値1(半角英数)"
         android:id="@+id/text1"
+        android:inputType="number"
         tools:layout_editor_absoluteY="0dp"
         tools:layout_editor_absoluteX="8dp" />
 
@@ -22,6 +23,7 @@
         android:layout_height="wrap_content"
         android:hint="数値2(半角英数)"
         android:id="@+id/text2"
+        android:inputType="number"
         tools:layout_editor_absoluteY="0dp"
         tools:layout_editor_absoluteX="8dp" />
 
